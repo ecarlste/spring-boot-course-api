@@ -40,7 +40,7 @@ public class TopicService {
         topicRepository.save(topic);
     }
 
-    public void updateTopic(Topic topic, String id) {
+    public void updateTopic(Topic topic) {
         topicRepository.save(topic);
     }
 
