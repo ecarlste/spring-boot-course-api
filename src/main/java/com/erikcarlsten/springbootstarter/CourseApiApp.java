@@ -1,4 +1,4 @@
-package com.erikcarlsten.springbootquickstart;
+package com.erikcarlsten.springbootstarter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
