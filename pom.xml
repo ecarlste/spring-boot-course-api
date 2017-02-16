@@ -6,7 +6,7 @@
 	<groupId>com.erikcarlsten.springbootquickstart</groupId>
 	<artifactId>course-api</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Spring Boot Quickstart API</name>
 	<description/>
